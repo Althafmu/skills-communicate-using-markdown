@@ -10,4 +10,4 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-<img src="https://github.com/Jenin82/Jenin82/blob/main/coder-cat-2.png" alt="GitHub Coder" height="250" width=350>
+<img src="https://github.com/Jenin82/Jenin82/blob/main/coder-cat-2.png" alt="GitHub Coder">
