@@ -11,3 +11,8 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of cat coder](https://github.com/Jenin82/Jenin82/blob/main/coder-cat-2.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
